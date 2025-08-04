@@ -4,17 +4,7 @@ I'm a passionate developer and student from Karnataka, India, currently explorin
 
 ---
 
-### 🚀 My Current Project
 
-I recently built a **Local Travel Guide App**! It started as a simple HTML/CSS webpage and has now evolved into a full-stack mobile app.
-
-* **Frontend:** Built with **Flutter**.
-* **Backend:** Powered by **Google Firebase** (Firestore).
-* **Features:** Category-based Browse, real-time data, and the ability for users to add new places.
-
-You can check out the code right here on my GitHub!
-
----
 
 ### 💻 Languages and Tools
 
