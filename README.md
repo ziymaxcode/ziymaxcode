@@ -1,6 +1,6 @@
 ### Hi there, I'm Ziyan 👋
 
-I'm a passionate developer and student from Karnataka, India, currently exploring the exciting world of mobile and web development. I love turning cool ideas into real applications.
+I'm a passionate developer and student from Karnataka, India, currently exploring the exciting world of development. I love turning cool ideas into real applications.
 
 ---
 
