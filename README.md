@@ -22,9 +22,7 @@ Here are some of the technologies I work with:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ---
 
-### 📊 My GitHub Stats
 
-![Ziyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziymaxcode&show_icons=true&theme=radical)
 
 ---
 
