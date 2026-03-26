@@ -61,7 +61,7 @@ const ziyan = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ziymaxcode&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziymaxcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&langs_count=6)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ziymaxcode&theme=tokyonight)
 
 </div>
 
