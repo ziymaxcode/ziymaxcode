@@ -59,9 +59,9 @@ const ziyan = {
 
 <div align="center">
 
-![Ziyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyan-hussain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0)
+![Ziyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziymaxcode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyan-hussain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziymaxcode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0)
 
 </div>
 
