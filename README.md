@@ -91,6 +91,6 @@ const ziyan = {
 
 *"Any sufficiently advanced bug is indistinguishable from a feature."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ziyan-hussain&color=00F5A0&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=ziymaxcode&color=00F5A0&style=flat-square&label=profile+views)
 
 </div>
